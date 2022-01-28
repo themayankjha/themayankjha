@@ -6,4 +6,4 @@
 ```
 ## Github Stats :)
 
-![alt text](https://github-readme-stats.vercel.app/api?username=themayankjha&show_icons=true&locale=en)
+![alt text](https://github-readme-stats.vercel.app/api?username=themayankjha&theme=tokyonight&show_icons=true&locale=en)
